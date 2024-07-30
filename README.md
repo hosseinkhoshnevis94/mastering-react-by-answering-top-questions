@@ -1,4 +1,4 @@
-# mastering-react-by-answering-top-questions
+# Mastering React by answering top questions
 
 This repository contains a collection of React components showcasing various design patterns and practices. Below is a brief description of each component and the design pattern it exemplifies.
 
