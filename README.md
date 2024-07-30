@@ -48,11 +48,3 @@ The `WithToggle` HOC provides toggle functionality, managing on/off states for t
 **Example of:** Higher-Order Component (HOC) Pattern  
 `WithUsers` is a higher-order component that injects user-related data and logic into the wrapped component.
 
-## Getting Started
-
-To get started with these components, clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-npm install
